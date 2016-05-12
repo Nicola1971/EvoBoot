@@ -1,6 +1,6 @@
 //--------------- Bootstrap Carousel --------------------//
 
-var $myCarousel = $('#carousel-evobs');
+var $myCarousel = $('#carousel-EvoBoot');
  
 // Initialize carousel
 $myCarousel.carousel();({
