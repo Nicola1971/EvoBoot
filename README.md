@@ -1,5 +1,7 @@
 # EvoBoot
 A free minimal responsive Bootstrap template for MODX Evolution
+http://www.tattoocms.it/modx-evolution-templates/evoboot-bootstrap-template-for-modx-evolution.html
+
 
 ##Demo
 http://www.evoboot.tattoocms.it/
