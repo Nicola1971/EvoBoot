@@ -542,7 +542,8 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a {
   display: inline;
   width: 200px;
   margin: 0;
-  border: 1px solid #eee;
+  border: 1px solid #E3E3E3;
+  border-right:0px;
   padding: 4px 7px 5px 7px;
   font-size: 15px;
   font-weight: normal;
@@ -561,12 +562,13 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a {
   display: inline;
   font-size: 16px;
   font-weight: normal;
-  margin: 0px 0px 0px 1px;
-  padding: 4px 12px 4px 12px;
+  margin: 2px 0px 0px -2px;
+  padding: 3px 12px 5px 12px;
   border: 1px solid #ddd;
-  border-radius: 3px;
-  background: transparent;
-  color: #666;
+  border-radius: 0 3px 3px 0 ;
+  background-color: #74be4f;
+  border-color: #65ac42;
+  color: #FFF;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
@@ -574,8 +576,7 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a {
 }
 
 #ajaxSearch_submit:hover {
-  color: #fff;
-  background: #ecedef;
+  background: #368836;
 }
 /*****WIDGETS****/
 
