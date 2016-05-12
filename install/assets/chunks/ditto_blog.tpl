@@ -1,7 +1,7 @@
 /**
- * evoboot-Blog-tpl
+ * ditto_blog
  *
- * Ditto Blog tpl
+ * Blog Template
  *
  * @category	chunk
  * @internal @modx_category EvoBoot
