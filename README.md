@@ -27,3 +27,6 @@ To to make installation easier, EvoBoot overwrites the following chunks:
 * FormSignup (default tpl for signup page) 
 * WebLoginSideBar (default tpl for login form) 
 
+##Screenshots:
+
+![evoboot](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/evoboot/evoboot.jpg)
