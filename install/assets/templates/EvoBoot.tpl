@@ -38,7 +38,7 @@
             </div>
 
            <div class="collapse navbar-collapse">
-[[Wayfinder?startId=`0` &level=`2` &outerTpl=`EvoBoot-nav-OuterTpl` &innerTpl=`EvoBoot-nav-InnerTpl` &rowTpl=`EvoBoot-nav-RowTpl` &innerRowTpl=`EvoBoot-nav-InnerRowTpl` &parentRowTpl=`EvoBoot-nav-ParentRowTpl` &firstClass=`first` &hereClass=`active`]]
+[[Wayfinder?startId=`0` &level=`2` &outerTpl=`evoboot-nav-OuterTpl` &innerTpl=`evoboot-nav-InnerTpl` &rowTpl=`evoboot-nav-RowTpl` &innerRowTpl=`evoboot-nav-InnerRowTpl` &parentRowTpl=`evoboot-nav-ParentRowTpl` &firstClass=`first` &hereClass=`active`]]
             </div>
 	</div>
     </header>
