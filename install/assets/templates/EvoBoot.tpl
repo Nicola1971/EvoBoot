@@ -45,7 +45,6 @@
 	<!--content-->
       <div class="Site-content">
 		 [[if? &is=`[*id*]:is:1` &then=`@TPL:evoboot-Carousel`]]
-                 [[-if? &is=`[*id*]:is:1` &then=`@TPL:evoboot-CallToAction`]]
       <div class="container">
 
 		 <div class="content col-lg-8">
