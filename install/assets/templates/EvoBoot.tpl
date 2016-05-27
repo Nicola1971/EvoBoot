@@ -57,14 +57,14 @@
 			  </div>
 		  <!-- Sidebar -->
  		<div class="sidebar col-lg-4">
-	{{EvoBoot-right-sidebar}}
+	{{evoboot-right-sidebar}}
 		</div>
 		  <!---end sidebar-->
 			 </div>
 	
 			 </div><!--end page content-->
   <div class="Site-footer">
-{{StartBottom}}	
+
     <footer id="footer" class="black">
         <div class="container">
             <div class="row">
