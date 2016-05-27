@@ -8,6 +8,10 @@
  */
 <aside class="right-sidebar">
 <div class="widget">
+ <h3>Login:</h3>
+[!WebLogin? &tpl=`WebLoginSideBar` &loginhomeid=`[(site_start)]`!]
+</div>
+<div class="widget">
 [!AjaxSearch? &ajaxSearch=`1` &landingPage=`8` &moreResultsPage=`8` &addJscript=`0` &showIntro=`0` &ajaxMax=`5` &extract=`0`!]	
 </div>
 
@@ -19,10 +23,7 @@
  <h3>News</h3>
 [[Ditto? &parents=`2` &display=`3` &removeChunk=`Comments` &tpl=`evoboot-Blog-tpl-side`]]	
 </div>
-<div class="widget">
- <h3>Login:</h3>
-[!WebLogin? &tpl=`WebLoginSideBar` &loginhomeid=`[(site_start)]`!]
-</div>
+
 <div class="widget">
                <!-- Tabs Widget -->
                 <div class="headline headline-md"><h3>Tabs</h3></div>
