@@ -12,6 +12,7 @@
 [!WebLogin? &tpl=`WebLoginSideBar` &loginhomeid=`[(site_start)]`!]
 </div>
 <div class="widget">
+<h3>Search</h3>
 [!AjaxSearch? &ajaxSearch=`1` &landingPage=`8` &moreResultsPage=`8` &addJscript=`0` &showIntro=`0` &ajaxMax=`5` &extract=`0`!]	
 </div>
 
