@@ -10,8 +10,7 @@
 <!-- login form section-->
 <form method="post" name="loginfrm" action="[+action+]" role="form">
     <input type="hidden" value="[+rememberme+]" name="rememberme" />
-        <h3>Your Login Details</h3>
-		<div class="form-group">
+  		<div class="form-group">
         <label for="username">User:</label> <input type="text" name="username" class="form-control" id="username" tabindex="1" onkeypress="return webLoginEnter(document.loginfrm.password);" value="[+username+]" placeholder="Enter Username"/>
 		</div>
 		<div class="form-group">
